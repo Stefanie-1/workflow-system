@@ -1,0 +1,15 @@
+# Python 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# PyCharm 项目配置
+.idea/
+
+# 环境变量和密钥
+.env
+.env.*
+!.env.example
